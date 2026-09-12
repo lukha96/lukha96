@@ -8,9 +8,9 @@
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/lukha96/Configuring-On-premises-Active-Directory-within-Azure-VMs/blob/main/README.md)
 - <b>DNS</b>
-  - [Active Directory DNS - A Records, DNS Cache, and CNAME Records](https://github.com/lukha96/Active-Directory-DNS---A-Records-DNS-Cache-and-CNAME-Records/blob/main/README.md)
+  - [DNS - A Records, DNS Cache, and CNAME Records](https://github.com/lukha96/Active-Directory-DNS---A-Records-DNS-Cache-and-CNAME-Records/blob/main/README.md)
 - <b>Network File Shares and Permission</b>
-  - [Active Directory File Shares, Permissions, and Security Groups](https://github.com/lukha96/Active-Directory-File-Shares-Permissions-and-Security-Groups)
+  - [File Shares, Permissions, and Security Groups](https://github.com/lukha96/Active-Directory-File-Shares-Permissions-and-Security-Groups)
 
 <h2>🤳Connect with me:</h2>
 
