@@ -6,14 +6,11 @@
   - [osTicket: Prerequisites and Installation](https://github.com/lukha96/osTicket-Prerequisites-and-Installation/blob/main/README.md)
   - [osTicket: Post-Installation Configuration](https://github.com/lukha96/osTicket-Post-Installation-Configuration/blob/main/README.md)
 - <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/lukha96/Configuring-On-premises-Active-Directory-within-Azure-VMs/blob/main/README.md)
 - <b>DNS</b>
   - [osTicket: Prerequisites and Installation](https://github.com/lukha96/osTicket-Prerequisites-and-Installation/blob/main/README.md)
-  - [osTicket: Post-Installation Configuration](https://github.com/lukha96/osTicket-Post-Installation-Configuration/blob/main/README.md)
 - <b>Network File Shares and Permission</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
